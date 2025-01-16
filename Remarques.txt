@@ -1,0 +1,8 @@
+
+
+Il n'existe pas d'objet Player, je propose donc d'en créer un : com.adaptionsoft.games.uglytrivia.Player
+
+Un joueur possède un nom, une position et un nombre de pièce(s).
+
+Il faut créer une classe question qui contient la catégorie.
+

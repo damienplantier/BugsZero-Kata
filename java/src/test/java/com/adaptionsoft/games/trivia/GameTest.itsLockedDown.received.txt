@@ -1,0 +1,1530 @@
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@53b32d7's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@5442a311's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5442a311 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@53b32d7's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@5442a311's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5442a311 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d's new location is 9
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@53b32d7's new location is 11
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@5442a311's new location is 0
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5442a311 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@53b32d7's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@5442a311's new location is 3
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@5442a311 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d's new location is 6
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@53b32d7's new location is 2
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@53b32d7 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@5442a311 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@5442a311's new location is 8
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@343f4d3d now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@548e7350's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@548e7350 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@1a968a59's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@4667ae56's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@548e7350's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@548e7350 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@1a968a59's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@4667ae56's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@548e7350's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@548e7350 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@1a968a59's new location is 8
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@4667ae56's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@548e7350's new location is 0
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@548e7350 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@4667ae56's new location is 9
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@548e7350 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@1a968a59 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@1a968a59's new location is 11
+The category is Rock
+Rock Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@4667ae56's new location is 2
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4667ae56 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@204f30ec now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 8
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@204f30ec was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0's new location is 9
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 1
+The category is Science
+Science Question 5
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe's new location is 7
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0's new location is 0
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 4
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 9
+The category is Science
+Science Question 6
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe's new location is 5
+The category is Science
+Science Question 7
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@77cd7a0 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@204f30ec is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@204f30ec's new location is 0
+The category is Pop
+Pop Question 4
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e25b2fe now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@754ba872's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@754ba872 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@754ba872's new location is 4
+The category is Pop
+Pop Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac's new location is 0
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d's new location is 2
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4dfa3a9d now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@754ba872 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@754ba872's new location is 9
+The category is Science
+Science Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@146ba0ac now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@464bee09 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@464bee09's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac's new location is 5
+The category is Science
+Science Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e's new location is 5
+The category is Science
+Science Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@464bee09 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@464bee09's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@464bee09 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@464bee09's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@f6c48ac's new location is 10
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6eebc39e's new location is 8
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@464bee09 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@464bee09's new location is 9
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@464bee09 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@239963d8's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@239963d8 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@239963d8's new location is 9
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@239963d8 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@239963d8's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@239963d8 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04's new location is 9
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@239963d8's new location is 6
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@239963d8 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04's new location is 2
+The category is Sports
+Sports Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 11
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@239963d8 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04's new location is 3
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@3abbfa04 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@13deb50e is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@13deb50e's new location is 4
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@13deb50e now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@598067a5's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@598067a5 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@598067a5's new location is 5
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@598067a5 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 9
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 8
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@598067a5's new location is 10
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@598067a5 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 9
+The category is Science
+Science Question 5
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@598067a5 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 1
+The category is Science
+Science Question 6
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@598067a5 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 6
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 1
+The category is Science
+Science Question 7
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@598067a5's new location is 1
+The category is Science
+Science Question 8
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 7
+The category is Rock
+Rock Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3's new location is 6
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@598067a5 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@598067a5 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@598067a5's new location is 6
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@57fffcd7's new location is 10
+The category is Sports
+Sports Question 4
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@31ef45e3 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@14bf9759's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5f341870 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@5f341870's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5f341870 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is not getting out of the penalty box
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@14bf9759's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5f341870 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@5f341870's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5f341870 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@14bf9759's new location is 0
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5f341870 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@5f341870's new location is 4
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5f341870 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b's new location is 7
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@14bf9759's new location is 3
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5f341870 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@5f341870's new location is 8
+The category is Pop
+Pop Question 4
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5f341870 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@3c0ecd4b's new location is 10
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@14bf9759's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@14bf9759 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@271053e1 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@271053e1's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@271053e1 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@271053e1 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@271053e1's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@271053e1 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 11
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008's new location is 9
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@271053e1 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@271053e1's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@271053e1 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 4
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008's new location is 10
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@271053e1 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@271053e1's new location is 2
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@271053e1 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 9
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008's new location is 1
+The category is Science
+Science Question 4
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4f7d0008 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@271053e1 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@271053e1's new location is 3
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@271053e1 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@553f17c is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@553f17c's new location is 1
+The category is Science
+Science Question 5
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@553f17c now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@589838eb is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@589838eb's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@589838eb now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@42dafa95's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6500df86 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@6500df86's new location is 1
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@6500df86 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@589838eb is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@589838eb's new location is 6
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@589838eb was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@42dafa95's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6500df86 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@6500df86's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@6500df86 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@589838eb is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@589838eb is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@589838eb's new location is 9
+The category is Science
+Science Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@42dafa95's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6500df86 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@6500df86's new location is 7
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@6500df86 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@589838eb is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@589838eb is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@589838eb's new location is 2
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@589838eb was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@42dafa95's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6500df86 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@6500df86 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6500df86's new location is 0
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@589838eb now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@589838eb is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@589838eb is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@589838eb's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@42dafa95 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@402a079c's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@402a079c now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@402a079c's new location is 9
+The category is Science
+Science Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@402a079c was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 9
+The category is Science
+Science Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@402a079c is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 2
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8's new location is 8
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@402a079c is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8's new location is 1
+The category is Science
+Science Question 4
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@402a079c now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@402a079c is not getting out of the penalty box
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@402a079c was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 9
+The category is Science
+Science Question 5
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@4cf777e8's new location is 4
+The category is Pop
+Pop Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@402a079c now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@402a079c is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@402a079c is not getting out of the penalty box
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@402a079c was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@59ec2012's new location is 0
+The category is Pop
+Pop Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@59ec2012 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@3fee9989's new location is 2
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 6
+The category is Sports
+Sports Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@3fee9989's new location is 3
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6's new location is 5
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 8
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6's new location is 7
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 1
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6's new location is 8
+The category is Pop
+Pop Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 2
+The category is Sports
+Sports Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@3fee9989 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6's new location is 11
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@73ad2d6 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f's new location is 5
+The category is Science
+Science Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@2f686d1f now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@7085bdee's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@7085bdee was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@1ce92674's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1's new location is 3
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@7085bdee's new location is 6
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@1ce92674's new location is 7
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1's new location is 8
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@7085bdee's new location is 9
+The category is Science
+Science Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@1ce92674's new location is 11
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1's new location is 11
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@5700d6b1 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@7085bdee is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@7085bdee's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@1ce92674 now has 6 Gold Coins.
+Chet was added
+They are 1player
+Pat was added
+They are 2players
+Sue was added
+They are 3players
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@5bcab519's new location is 4
+The category is Pop
+Pop Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@e45f292 now has 1 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 4
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@5bcab519's new location is 9
+The category is Science
+Science Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@e45f292 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5's new location is 7
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@5bcab519's new location is 2
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e45f292 now has 3 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 7
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@e45f292 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5's new location is 8
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 was sent to the penalty box
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 3
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@5bcab519's new location is 5
+The category is Science
+Science Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@e45f292 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 0
+The category is Pop
+Pop Question 3
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 4 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5's new location is 1
+The category is Science
+Science Question 4
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 now has 2 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 5
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 5
+The category is Science
+Science Question 5
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 5 Gold Coins.
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is the current player
+They have rolled a 2
+com.adaptionsoft.games.uglytrivia.Player@5bcab519 is not getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is the current player
+They have rolled a 1
+com.adaptionsoft.games.uglytrivia.Player@e45f292 is getting out of the penalty box
+com.adaptionsoft.games.uglytrivia.Player@e45f292's new location is 6
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+com.adaptionsoft.games.uglytrivia.Player@6fd02e5 now has 6 Gold Coins.
